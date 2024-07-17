@@ -1,10 +1,10 @@
 # 💫 About Me:
 As a passionate Full Stack Developer specializing in the MERN stack and AWS cloud solutions, I excel in web and mobile application development with a focus on innovation and efficiency. Currently pursuing a B.Tech in Computer Science and Engineering at Arya College of Engineering, I maintain a CGPA of 9.4. My technical skills include Java, JavaScript, C++, Python, ReactJS, Node.js, and more.
-<br>
+<br><br>
 During my internship at Learn And Build, I led the development of a Picture Sharing App, showcasing my full-stack expertise and enhancing user satisfaction. My project portfolio includes a Chat App Website (Chatty), a Bank Management System (ATM), and a News Surfing App (Newsify), all of which improved operational efficiency and user engagement.
-<br>
+<br><br>
 With certifications in programming and database management, and high ranks in competitive coding contests, I am dedicated to continuous learning and excellence. I am eager to contribute my expertise to challenging projects and dynamic teams in the tech industry.
-<br>
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitja26) 
