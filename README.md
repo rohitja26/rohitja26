@@ -1,6 +1,10 @@
 # 💫 About Me:
-As a passionate Full Stack Developer specializing in the MERN stack and AWS cloud solutions, I bring a unique blend of skills in web and mobile application development, focusing on innovation and efficiency. I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at Arya College of Engineering, where I maintain a high CGPA of 9.4. My technical toolkit includes proficiency in Java, JavaScript, C++, Python, ReactJS, Node.js, and various other tools essential for modern software development.<br><br>I have hands-on experience from my internship at Learn And Build, where I led the development of a Picture Sharing App, demonstrating comprehensive full-stack proficiency and significantly enhancing user satisfaction. My project portfolio includes creating a Chat App Website (Chatty) with a notable improvement in operational efficiency, a Bank Management System (ATM) that revolutionized transaction processing, and a News Surfing App (Newsify) that boosted user engagement with real-time updates and sleek design.<br><br>I hold several certifications in programming and database management, and I have achieved high ranks in competitive coding contests. With a commitment to continuous learning and excellence, I am eager to contribute my expertise to challenging projects and dynamic teams in the tech industry.
-
+As a passionate Full Stack Developer specializing in the MERN stack and AWS cloud solutions, I excel in web and mobile application development with a focus on innovation and efficiency. Currently pursuing a B.Tech in Computer Science and Engineering at Arya College of Engineering, I maintain a CGPA of 9.4. My technical skills include Java, JavaScript, C++, Python, ReactJS, Node.js, and more.
+<br>
+During my internship at Learn And Build, I led the development of a Picture Sharing App, showcasing my full-stack expertise and enhancing user satisfaction. My project portfolio includes a Chat App Website (Chatty), a Bank Management System (ATM), and a News Surfing App (Newsify), all of which improved operational efficiency and user engagement.
+<br>
+With certifications in programming and database management, and high ranks in competitive coding contests, I am dedicated to continuous learning and excellence. I am eager to contribute my expertise to challenging projects and dynamic teams in the tech industry.
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitja26) 
