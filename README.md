@@ -92,7 +92,9 @@ Hi, I’m Rohit Jain, a passionate Full Stack Developer with a knack for craftin
   </a>
 </div>
 
-### 🔝 Top Contributed Repo
+<br/>
+
+ <h2>🔝 Top Contributed Repo</h2>  
 ![](https://github-contributor-stats.vercel.app/api?username=rohitja26&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
