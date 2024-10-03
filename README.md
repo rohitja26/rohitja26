@@ -11,6 +11,9 @@ Hi, I’m Rohit Jain, a passionate Full Stack Developer with a knack for craftin
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitja26) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RohitJain_26)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/its_rohitjain26)
+
 
 ## 💻 Tech Stack:
 <div align="left">
