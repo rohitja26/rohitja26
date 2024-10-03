@@ -6,8 +6,7 @@ Hi, I’m Rohit Jain, a passionate Full Stack Developer with a knack for craftin
 <b>Frontend</b>: React.js, TailwindCSS, Redux, Zustand<br>
 <b>Backend</b>: Node.js, Express, Spring Boot<br>
 <b>Databases</b>: MongoDB, Firebase, SQL<br>
-<b>Cloud & Tools,/b>: AWS S3, Docker, Git, CI/CD<br>
-<br><br>
+<b>Cloud & Tools</b>: AWS S3, Docker, Git, CI/CD<br>
 <br><br>
 
 ## 🌐 Socials:
