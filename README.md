@@ -1,12 +1,12 @@
 ## 💫 About Me:
 Hi, I’m Rohit Jain, a passionate Full Stack Developer with a knack for crafting efficient, user-focused web applications. My expertise lies in the MERN stack and Java, and I thrive on transforming complex problems into intuitive digital solutions.
 <br><br>
-💡 Technical Proficiency:
+##💡 Technical Proficiency:
 <br><br>
-<b>Frontend</b>: React.js, TailwindCSS, Redux, Zustand
-<b>Backend</b>: Node.js, Express, Spring Boot
-<b>Databases</b>: MongoDB, Firebase, SQL
-<b>Cloud & Tools,/b>: AWS S3, Docker, Git, CI/CD
+<b>Frontend</b>: React.js, TailwindCSS, Redux, Zustand<br>
+<b>Backend</b>: Node.js, Express, Spring Boot<br>
+<b>Databases</b>: MongoDB, Firebase, SQL<br>
+<b>Cloud & Tools,/b>: AWS S3, Docker, Git, CI/CD<br>
 <br><br>
 <br><br>
 
