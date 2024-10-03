@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 As a passionate Full Stack Developer specializing in the MERN stack and AWS cloud solutions, I excel in web and mobile application development with a focus on innovation and efficiency. Currently pursuing a B.Tech in Computer Science and Engineering at Arya College of Engineering, I maintain a CGPA of 9.4. My technical skills include Java, JavaScript, C++, Python, ReactJS, Node.js, and more.
 <br><br>
 During my internship at Learn And Build, I led the development of a Picture Sharing App, showcasing my full-stack expertise and enhancing user satisfaction. My project portfolio includes a Chat App Website (Chatty), a Bank Management System (ATM), and a News Surfing App (Newsify), all of which improved operational efficiency and user engagement.
@@ -9,8 +9,7 @@ With certifications in programming and database management, and high ranks in co
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitja26) 
 
-# 💻 Tech Stack:
-### Skills
+## 💻 Tech Stack:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12"  />
@@ -44,10 +43,35 @@ With certifications in programming and database management, and high ranks in co
    <img width="12"  />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="ionic logo"  />
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohitja26&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohitja26&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitja26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12"  />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
